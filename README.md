@@ -3,7 +3,7 @@
 <h3 align="center">Estudiante de Sistemas de la Información | Apasionado por la tecnología y el deporte 💻🏋️</h3>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExczUwMXdqbXFncXBzdHdxYXluaGY3Njd4OGIycXU0MXQ2NTdrMDY2YiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/DBW3BniaWrFo4/giphy.gif" width="400" alt="Programando" />
+  <img src="https://media4.giphy.com/media/v1.Y2lkPTZjMDliOTUycWdrOWdnZjNnd3g3ZXR5cGt6bjlvYjBucHhvcnl2eXkzaW9zeDBzZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/1mckwb7WzC66FCP5Tp/giphy.gif" width="400" alt="Programando" />
 </p>
 
 ---
