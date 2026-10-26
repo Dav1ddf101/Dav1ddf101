@@ -34,8 +34,8 @@
 ## 📊 Estadísticas de GitHub
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Joeyy99&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Joeyy99&layout=compact&theme=tokyonight&hide_border=true" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Dav1ddf101&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dav1ddf101&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
@@ -45,10 +45,10 @@
 Si quieres colaborar en algún proyecto o simplemente charlar de tecnología, ¡escríbeme!
 
 <p align="center">
-  <a href="https://github.com/Joeyy99">
-    <img src="https://img.shields.io/badge/GitHub-Joeyy99-181717?style=for-the-badge&logo=github&logoColor=white" />
+  <a href="https://github.com/Dav1ddf101">
+    <img src="https://img.shields.io/badge/GitHub-Dav1ddf101-181717?style=for-the-badge&logo=github&logoColor=white" />
   </a>
-  <a href="mailto:tapajoel78@gmail.com">
+  <a href="mailto:luisdavidduenas@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </p>
