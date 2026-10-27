@@ -1,6 +1,6 @@
 <h1 align="center">¡Hola, soy David! 👋</h1>
 
-<h3 align="center">Estudiante de Sistemas de la Información | Apasionado por la tecnología y el deporte 💻🏋️</h3>
+<h3 align="center">Estudiante de Sistemas de la Información | Apasionado por la tecnología y el cine 💻🎬</h3>
 
 <p align="center">
   <img src="https://media4.giphy.com/media/v1.Y2lkPTZjMDliOTUycWdrOWdnZjNnd3g3ZXR5cGt6bjlvYjBucHhvcnl2eXkzaW9zeDBzZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/1mckwb7WzC66FCP5Tp/giphy.gif" width="400" alt="Programando" />
@@ -13,7 +13,7 @@
 - 🎓 Estudiante de **Sistemas de la Información** en la **Universidad Central del Ecuador (UCE)**
 - 🇪🇨 Desde Ecuador
 - 💡 Me apasiona la tecnología y aprender cosas nuevas todos los días
-- ⚽ Me encanta hacer deporte
+- 🎥 Me encanta ver series y peliculas que traten conceptos interesantes
 - 🌱 Actualmente construyendo proyectos y mejorando mis habilidades de programación
 
 ---
